@@ -1,5 +1,6 @@
 # Remember
-A game designed and developed by Reckless Force 
+A game designed and developed by Reckless Force in GameMaker
+
 (a year 1 CMGT project group)
 
 Remember is a 2D RPG game project created by students in their first year. 
